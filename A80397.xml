@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain passages which happened at Newport, in the Isle of Wight, Novemb. 29. 1648. relating to King Charles I. Written by Mr. Edward Cooke, of Highnam in Gloucestershire, sometime colonel of a regiment under Oliver Cromwell</title>
+            <author>Cooke, Edward, d. 1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80397</idno>
+            <idno type="STC">Wing C5997</idno>
+            <idno type="STC">ESTC R22751</idno>
+            <idno type="EEBO-CITATION">99895254</idno>
+            <idno type="PROQUEST">99895254</idno>
+            <idno type="VID">152697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 913:6; 2317:1a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain passages which happened at Newport, in the Isle of Wight, Novemb. 29. 1648. relating to King Charles I. Written by Mr. Edward Cooke, of Highnam in Gloucestershire, sometime colonel of a regiment under Oliver Cromwell</title>
+                  <author>Cooke, Edward, d. 1684.</author>
+               </titleStmt>
+               <extent>[8], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Chiswell, at the Rose and Crown in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXC. [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title reads: Passages at Newport, in the Isle of Wight.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library; Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:152697:1" rendition="simple:additions"/>
+            <p>PASSAGES AT NEWPORT, IN THE Iſle of Wight.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:152697:2"/>
+            <pb facs="tcp:152697:2" rendition="simple:additions"/>
+            <p>CERTAIN PASSAGES Which happened at NEWPORT, IN THE <hi>Iſle of Wight,</hi> NOVEMB. 29. 1648. Relating to KING CHARLES I.</p>
+            <p>WRITTEN By Mr. <hi>EDWARD COOKE,</hi> of <hi>Highnam</hi> in <hi>Glouceſterſhire,</hi> ſometime Colonel of a Regiment under <hi>Oliver Cromwell.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Chiſwell,</hi> at the Roſe and Crown in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> MDCXC.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152697:3"/>
+            <pb facs="tcp:152697:3" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>THAT which I had read, and heard of <hi>King Charles the Firſt,</hi> of Bleſſed Memory raiſed in me a great Veneration for him.</p>
+            <p>This made me curious in enquiring after any <hi>Memorials</hi> which related to him, eſpecially ſuch as concern'd his <hi>Solitudes</hi> and <hi>Sufferings;</hi> which though they did not create his Vertues, yet they encreaſed them, and rendred them much more Illuſtrious.</p>
+            <p>Among other Relations, this of Colo<g ref="char:EOLhyphen"/>nel <hi>Cook</hi>'s came lately to my hands; and I did believe it fit to be made publick,
+<pb facs="tcp:152697:4" rendition="simple:additions"/>both becauſe the Account given in it is more particular than any yet extant, and given by a Convert of Integrity, who bare a great part in the Affair; and alſo becauſe it ſhews how tender a regard that good <hi>King</hi> had to his <hi>Word,</hi> chuſing rather to fall into the hands of cruel Men, than to give occaſion to a mere appearance of the <hi>Breach</hi> of it. If all Princes were of that Diſpoſition, their <hi>Faith</hi> would more effectually ſecure them one againſt another, than their <hi>Arms.</hi>
+            </p>
+            <p>I ſhall here ſay no more, than that the Doctrine which was practis'd in <hi>Forty eight,</hi> was publiſh'd in Engliſh in <hi>Twenty one,</hi> in the Book entit'led, <hi>[The Rights of the Prelate and the Prince]</hi> as good <hi>Roman Catholick</hi> Di<g ref="char:EOLhyphen"/>vinity, by <hi>J. E.</hi> with <hi>Licence</hi> of <hi>Supe<g ref="char:EOLhyphen"/>riors;</hi> and conſequently, that <hi>John Good<g ref="char:EOLhyphen"/>win</hi>
+               <pb facs="tcp:152697:4" rendition="simple:additions"/>and <hi>John Milton</hi> were not the firſt Broachers of it in <hi>England.</hi>
+            </p>
+            <p>The ſtrain of the whole Book is of that nature, and the following words are part of it:
+<note n="*" place="margin">Chap. 15. pag. 375.</note>
+               <q>And if Kings, who were not excommunicated nor de<g ref="char:EOLhyphen"/>prived by the Pope, may by the Commonwealth be depoſed and <hi>kill'd,</hi> when they are intolerable Ty<g ref="char:EOLhyphen"/>rants; why may not the Common<g ref="char:EOLhyphen"/>wealth exerciſe the ſame Power over Tyrants excommunicated and de<g ref="char:EOLhyphen"/>prived by the Pope, They, after Excommunication and Deprivation, being no more Kings, but private Men.</q>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Jan. 18. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152697:5" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:152697:5" rendition="simple:additions"/>
+            <head>CERTAIN PASSAGES Which happened at NEWPORT, IN THE Iſle of Wight, &amp;c. NOVEMB. 29. 1648.</head>
+            <p>THAT Evening, between the Hours of Seven and Eight, the King ſent for the Duke of <hi>Richmond,</hi> the Earl of <hi>Lindſey,</hi> and Col. <hi>Edward Cooke</hi> (who were all three together at the Duke of <hi>Rich<g ref="char:EOLhyphen"/>mond</hi>'s Lodgings, in <hi>Newport,</hi> in the <hi>Iſle of Wight</hi>) with all ſpeed to attend him, who accordingly haſtened to the Court; the two Lords entring into
+<pb n="2" facs="tcp:152697:6" rendition="simple:additions"/>the King's inner Room, while the Colonel waited in the outward Room for farther Orders.</p>
+            <p>The King acquainted the Lords, That one of his Servants had been ſent for by a Perſon in a kind of diſguiſe, who having informed him, that the Army would that Night ſeize upon the King's Perſon, abruptly left him. The Duke of <hi>Richmond</hi> acquainting the King, that Col. <hi>Cooke</hi> attended without, was commanded to call him in: The King asked him whether he had heard any thing that the Army deſigned to ſeize upon him that Night. He anſwered, That he did not hear any thing ſo much as tending to<g ref="char:EOLhyphen"/>wards it; adding, Surely, if I had, I would have acquainted the King with it. The King giving the Colonel the reaſon of his Queſtion, comman<g ref="char:EOLhyphen"/>ded
+<pb n="3" facs="tcp:152697:6"/>him to find out Major <hi>Rolph,</hi> and enquire of him, what he knew of it, (who was then left as Deputy-Governor by Col. <hi>Hammond,</hi> with Directions, That on all occaſions he ſhould addreſs to the King through the ſaid Colonel <hi>Cooke,</hi> as himſelf had uſually done during the Treaty.</p>
+            <p>Col. <hi>Cooke</hi> having the King's Com<g ref="char:EOLhyphen"/>mands, and opportunely finding Ma<g ref="char:EOLhyphen"/>jor <hi>Rolph</hi> in his Chamber, acquainted him that the King ſent him to enquire of him, Whether the Army reſolved to ſeize upon him that night. He anſwered, Not that he knew of; ad<g ref="char:EOLhyphen"/>ding, <hi>You may aſſure the King from me, That he may reſt quietly this night; for on my life he ſhall have no diſtur<g ref="char:EOLhyphen"/>bance this night.</hi> Colonel <hi>Cooke</hi> ob<g ref="char:EOLhyphen"/>ſerving that he placed ſo much Em<g ref="char:EOLhyphen"/>phaſis on thoſe words <hi>[This Night]</hi>
+               <pb n="4" facs="tcp:152697:7" rendition="simple:additions"/>though that was all he was comman<g ref="char:EOLhyphen"/>ded by the King to ask, urged him farther, whether really there was any ſuch deſign at all or not. After a little pauſe, he anſwered, It was im<g ref="char:EOLhyphen"/>poſſible for him to know the preſent purpoſes of the Army at ſo great a diſtance, but that as yet he had re<g ref="char:EOLhyphen"/>ceived no ſuch Orders. The Co<g ref="char:EOLhyphen"/>lonel replied, <hi>But if you ſhall here<g ref="char:EOLhyphen"/>after, ſhall I be ſure ſo timely to be made acquainted with them, as that the King may not be ſurprized with the execution of them?</hi> To which re<g ref="char:EOLhyphen"/>queſt he ſeemingly conſented; an<g ref="char:EOLhyphen"/>ſwering, That was but a due reſpect to the King.</p>
+            <p>Col. <hi>Cooke</hi> thereupon returning to the King, gave him a punctual Ac<g ref="char:EOLhyphen"/>count of all theſe Paſſages; who in the mean time having been informed,
+<pb n="5" facs="tcp:152697:7" rendition="simple:additions"/>that a conſiderable number of the Army were that night landed in the Iſland, remanded Col. <hi>Cooke</hi> back to Major <hi>Rolph</hi> to enquire the truth thereof; who thus anſwered him, That he knew freſh Forces would e're long come over to relieve thoſe that then paſt on Duty there, but that as yet he was not certain of their being landed. Which Anſwer alſo the Colonel returned to the King; who, in that ſhort time of his abſence, had received a farther Information, That Two thouſand Foot were drawn up about <hi>Carisbrook Caſtle;</hi> at which the King ſeemed to be moſt ſtart<g ref="char:EOLhyphen"/>led, ſaying, <hi>Sure there muſt needs be ſome extraordinary Deſign on foot, that ſuch a Body of Men ſhould not only be ſo privately landed, but alſo in ſuch a bitter night as this is, to be
+<pb n="6" facs="tcp:152697:8"/>expoſed to ſuch extremity of Weather, the Wind blowing very high, and the Rain falling very faſt.</hi> The King expreſſing a great deſire to be ſatiſ<g ref="char:EOLhyphen"/>fied in the truth of this, and doubt<g ref="char:EOLhyphen"/>ing that he might not be ſo clearly dealt with by Major <hi>Rolph,</hi> Colonel <hi>Cooke</hi> offered his Service to go and ſee; but the King (reflecting on the ſeve<g ref="char:EOLhyphen"/>rity of the Weather) refuſed to ex<g ref="char:EOLhyphen"/>poſe him; yet owning it an important particular, whereof to be rightly in<g ref="char:EOLhyphen"/>formed: which the Colonel obſer<g ref="char:EOLhyphen"/>ving, importun'd the King, that, if he could be ſo long diſpenſed with from His Majeſty's Service there, he would give him leave to go, he knowing no other expedient for the King's cer<g ref="char:EOLhyphen"/>tain Satisfaction. He alſo preſt the Lords to intercede for him therein, and at laſt obtained leave of the King;
+<pb n="7" facs="tcp:152697:8" rendition="simple:additions"/>His Majeſty adding theſe gracious Ex<g ref="char:EOLhyphen"/>preſſions, That he hoped he, being young and healthy, would receive no preju<g ref="char:EOLhyphen"/>dice by it, and that he might live to requite it; repeating his deſire to know the truth of it.</p>
+            <p>The Colonel took leave, and ha<g ref="char:EOLhyphen"/>ving ſoon got himſelf and his Horſe ready, though the night was extraor<g ref="char:EOLhyphen"/>dinary dark, fortunately grop'd out his way through the dark, and found the Caſtle; which having carefully rounded, and finding no body with<g ref="char:EOLhyphen"/>out, he went to the Gate, and ha<g ref="char:EOLhyphen"/>ving performed the uſual Ceremonies (as giving the Word to the Corporal) and ſheltred himſelf under the Gate from the exceſs of Rain that then fell, he ſent his deſires to the Governor, to have one Captain <hi>Boreman</hi> (a Gentleman of that Iſland, who com<g ref="char:EOLhyphen"/>manded
+<pb n="8" facs="tcp:152697:9" rendition="simple:additions"/>a Militia-Company there) with whom he was well acquainted, to come to him: In the mean time he diſcourſed with the Soldiers, to try what he could get out of them; but found they were altogether ignorant, being a Company of the Iſlanders new<g ref="char:EOLhyphen"/>ly marched in; the two Army-Com<g ref="char:EOLhyphen"/>panies, formerly garriſon'd there, being drawn down into the Town of <hi>Newport,</hi> probably to double the Guards. After a longer ſtay than he expected, the Meſſenger returned with this Excuſe, That the Captain could not conveni<g ref="char:EOLhyphen"/>ently come out to him, but invited him in; who, when he came into the Parlour, was ſurprized with the ſight of about a dozen Officers of the Army, moſt of whoſe Faces he knew: And after mutual Salutation, he addreſs'd himſelf to the Governor, deſiring to
+<pb n="9" facs="tcp:152697:9" rendition="simple:additions"/>ſpeak with him; who (he obſerved) firſt asked, and obtained leave of thoſe Officers; wherefore asking him in pri<g ref="char:EOLhyphen"/>vate, what he meant by that; the Go<g ref="char:EOLhyphen"/>vernor plainly told him, he was no bet<g ref="char:EOLhyphen"/>ter than their Priſoner in his own Garri<g ref="char:EOLhyphen"/>ſon, for they had threatned him with immediate Death, if he but ſo much as whiſpered with any of his own Ser<g ref="char:EOLhyphen"/>vants. The Colonel asked him, whe<g ref="char:EOLhyphen"/>ther he could imagine the Cauſe of all this? He anſwered, He ſuppoſed there was ſome conſiderable Deſign on foot, but he knew not what it was; adding, That he underſtood that the Captain that commanded the Troop of Horſe in the Iſland, was in the ſame conditi<g ref="char:EOLhyphen"/>on, and that his Lieutenant commanded in his place; but that he knew no o<g ref="char:EOLhyphen"/>ther cauſe for either, unleſs that they ſuſpected that they had too much Duty
+<pb n="10" facs="tcp:152697:10" rendition="simple:additions"/>for the King. Which gave the Co<g ref="char:EOLhyphen"/>lonel the opportunity of asking the par<g ref="char:EOLhyphen"/>ticular Queſtion, Whether he knew any thing of the King's being that Night to be ſeized upon? Who anſwer<g ref="char:EOLhyphen"/>ed, It was not improbable but that might be the Deſign, though he knew nothing of it.</p>
+            <p>Col. <hi>Cooke</hi> received as much light as the Governor could give him, took leave, and haſtned to give the King an exact Account of all had paſt; but found at his return a great Alteration at Court, Guards not only ſet round the King's Lodgings, and at every Window, but even within doors alſo; nay Sentinels on the King's very Cham<g ref="char:EOLhyphen"/>ber-door, ſo that the King was almoſt ſuffocated with the Smoak of the burn<g ref="char:EOLhyphen"/>ing Match; which haſtned the Colonel to Major <hi>Rolph,</hi> to complain of the
+<pb n="11" facs="tcp:152697:10" rendition="simple:additions"/>rudeneſs of the Soldiers; whom he found in his Bed (it being now near Twelve or One a Clock) having en<g ref="char:EOLhyphen"/>tred his Chamber againſt the will of his Servant: After his Apology, he made his Complaint, and received this An<g ref="char:EOLhyphen"/>ſwer, That he was no way guilty of it, That the two Companies being late drawn out of the Caſtle, could not that night have Quarters provided for them, and therefore he had ordered them to double the Guards, not fore<g ref="char:EOLhyphen"/>ſeeing this would happen; but the next day he would redreſs all things himſelf, with all due reſpect to the King, and conſult him the ſaid Colonel in it; and that in the mean time he was confident on the Colonel's Complaint to the Cap<g ref="char:EOLhyphen"/>tain of the Guards, he would draw off the Men from being offenſive to the King; adding, If the Colonel found
+<pb n="12" facs="tcp:152697:11" rendition="simple:additions"/>it needful, he might make uſe of his Name to the Captain of the Guard; to whom the Colonel making his Ap<g ref="char:EOLhyphen"/>plication, in his return to the King, prevailed with him to draw off thoſe Guards that were ſo great annoyance to the King, to a more tolerable diſtance.</p>
+            <p>At Col. <hi>Cooke</hi>'s return to the King, he made him repeat over all the ſeveral Paſſages that had happen'd that Night; which being compared together, and duly conſidered by the <hi>King,</hi> the Duke of <hi>Richmond,</hi> and Earl of <hi>Lindſey</hi> (for the Earl of <hi>Southampton</hi> being indiſpo<g ref="char:EOLhyphen"/>ſed, was before that time returned to his Lodgings; and the Marqueſs of <hi>Hartford</hi> had taken leave of the <hi>King,</hi> and left the Iſland that Morning, and was gon to <hi>Netley</hi>) all unanimouſly concluded that the Army would ſud<g ref="char:EOLhyphen"/>denly ſeize upon the <hi>King</hi>'s Perſon;
+<pb n="13" facs="tcp:152697:11" rendition="simple:additions"/>which being taken for granted on all hands, the next Queſtion was, in this deſperate caſe, What was moſt advi<g ref="char:EOLhyphen"/>ſable to be done?</p>
+            <p>The Lords argued for the <hi>King</hi>'s attempting an immediate Eſcape; for he would better bring about a Perſonal Treaty with the Parliament (which he ſo much coveted) when out of the reach of the Army, than when within their Power; and this would certainly ſecure the Safety of his Perſon, which elſe might be very probably much in danger.</p>
+            <p>But before they could proceed to debate the manner of this Eſcape, the <hi>King</hi> prevented it, thus arguing againſt the Eſcape itſelf; firſt arguing the dif<g ref="char:EOLhyphen"/>ficulties, if not impoſſibility of accom<g ref="char:EOLhyphen"/>pliſhing it; next the conſequences, that in caſe he ſhould miſcarry in the
+<pb n="14" facs="tcp:152697:12" rendition="simple:additions"/>Attempt, it would exaſperate the Army, and diſhearten his Friends; and laſtly, That if the Army ſhould ſeize him, they muſt preſerve him for their own ſakes; for that no Party could ſecure their own Intereſts, with<g ref="char:EOLhyphen"/>out joyning his with it, his Son being now out of their reach.</p>
+            <p>The Earl of <hi>Lindſey</hi> replied, <hi>Take heed, Sir, leſt you fall into ſuch hands as will not ſteer by ſuch Rules of Policy, re<g ref="char:EOLhyphen"/>member</hi> Hampton-Court, <hi>where your Eſcape was your beſt Security.</hi> The Duke of <hi>Richmond</hi> adding, That yet he thought it feaſible enough, and turning about to Colonel <hi>Cooke,</hi> asked how he paſſed to and fro? who anſwered, He had the Word. The Duke asked, Whether he be<g ref="char:EOLhyphen"/>lieved he could paſs him too? who anſwered, He made no queſtion but
+<pb n="15" facs="tcp:152697:12" rendition="simple:additions"/>he could. At which the Duke took a longer Cloak, without a Star, and made the Colonel go along with him through the Guards, and ſo returned again to the <hi>King,</hi> acquaint<g ref="char:EOLhyphen"/>ing him with what he had done, and with what eaſe; and thence took the advantage again to perſuade the <hi>King</hi>'s attempting to eſcape.</p>
+            <p>Who on a ſudden turning him<g ref="char:EOLhyphen"/>ſelf from the two Lords that were diſcourſing with him at the Win<g ref="char:EOLhyphen"/>dow, to Colonel <hi>Cooke,</hi> who ſtood drying himſelf by the Fire, ſaid, <hi>Ned Cooke, What do you adviſe me in this caſe?</hi> Who humbly anſwer<g ref="char:EOLhyphen"/>ed, He ſuſpected his own Judgment too much, to preſume to offer any Advice, conſidering both the great<g ref="char:EOLhyphen"/>neſs of the danger, and the Perſon concerned in it: That His Majeſty
+<pb n="16" facs="tcp:152697:13" rendition="simple:additions"/>had his Privy-Council with him, to whom he humbly beſought him to liſten, obſerving what they preſ<g ref="char:EOLhyphen"/>ſed him to. At which the Lords reſumed their former Diſcourſe, of at<g ref="char:EOLhyphen"/>tempting an Eſcape.</p>
+            <p>But the <hi>King</hi> turning about a<g ref="char:EOLhyphen"/>gain, ſaid, <hi>Ned, I command you to give me your Advice.</hi> At which the Colonel begg'd leave, That after he had premiſed ſome Particulars, he might ask His Majeſty a Queſtion. Who permitting him; <hi>Suppoſe</hi> (ſaid he) <hi>I ſhould not only tell Your Ma<g ref="char:EOLhyphen"/>jeſty, That the Army would very ſud<g ref="char:EOLhyphen"/>denly ſeize upon you, but by concur<g ref="char:EOLhyphen"/>ring Circumſtances fully convince Your Majeſty it would be ſo: Alſo that I have the</hi> Word, <hi>Horſes ready at hand, a Veſſel attending at the Come, and hourly expecting me; That I am
+<pb n="17" facs="tcp:152697:13" rendition="simple:additions"/>ready, and deſirous to attend you, and this diſmal dark night as it were ſuited to the purpoſe; ſo that I can foreſee no viſible dif<g ref="char:EOLhyphen"/>culty in the thing, which I ſuppoſe to be in all particulars the true ſtate of this preſent caſe: The only Queſtion now is, What will Your Majeſty reſolve to do?</hi> VVho, after a ſmall pauſe, pronounced this poſitive Anſwer, <hi>They have promiſed me, and I have promiſed them, I will not break firſt.</hi>
+            </p>
+            <p>The Duke of <hi>Richmond</hi> urging the Colonel to ſpeak, he craved leave to ſpeak to argue the Point with the <hi>King;</hi> who ſaid, With all his heart. <hi>I preſume, Sir</hi> (ſaid the Colonel) <hi>Your Majeſty intends by thoſe words</hi> [They, <hi>and</hi> Them] <hi>the Parliament; if ſo, the Scene now
+<pb n="18" facs="tcp:152697:14" rendition="simple:additions"/>is quite altered or changed, your pre<g ref="char:EOLhyphen"/>ſent Apprehenſion ariſing from the Army, who have ſo far already vio<g ref="char:EOLhyphen"/>lated the Promiſes of the Parlia<g ref="char:EOLhyphen"/>ment, as to invade Your Majeſty's Freedom and Safety, by changing the ſingle Sentinel of State at the out<g ref="char:EOLhyphen"/>ward Door, into ſtrong Guards on your very Bed-Chamber; which is in it ſelf no better than a Confine<g ref="char:EOLhyphen"/>ment, and the probable fore-runner of ſomething more, a ſpeedy abſolute Im<g ref="char:EOLhyphen"/>priſonment.</hi>
+            </p>
+            <p>The <hi>King</hi> replied, however he would not do any thing that ſhould look like a breaking of his Word, and ſo bad him, and the Earl of <hi>Lindſey</hi> Good-night; and that he would go and take his reſt too, ſo long as he could. To which Colonel <hi>Gooke</hi> replied, <hi>I fear it will not be
+<pb n="19" facs="tcp:152697:14" rendition="simple:additions"/>long.</hi> The <hi>King</hi> anſwered, <hi>As pleaſe God.</hi> The <hi>King</hi> perceiving great uneaſineſs and diſorder in the Colonel, ſaid, <hi>Ned, What trou<g ref="char:EOLhyphen"/>bles you, tell me.</hi> Who replied, <hi>Sir, to conſider the greatneſs of Your Majeſty's Danger, and your unwillingneſs to avoid it.</hi> The <hi>King</hi> replied, <hi>Ne'er let that trouble you, were it greater, I would not break my Word to prevent it. Sir</hi> (ſaid the Colonel) <hi>will Your Ma<g ref="char:EOLhyphen"/>jeſty but reſpite the Reſolution, and give me leave to ſtep and call my Lord of</hi> Southampton? <hi>What needs that</hi> (ſaid the <hi>King) Are not theſe my two Friends?</hi> (point<g ref="char:EOLhyphen"/>ing to the Duke of <hi>Richmond</hi> and Earl of <hi>Lindſey</hi>) <hi>I tell you they are my two true Friends.</hi> Said the Colonel, <hi>Be pleaſed then to
+<pb n="20" facs="tcp:152697:15" rendition="simple:additions"/>conſult them.</hi> Said the <hi>King, I am reſolved, go you two to Bed</hi> (meaning the Earl of <hi>Lindſey,</hi> and Colonel <hi>Cooke,</hi> for the Duke of <hi>Richmond</hi> was then in waiting) <hi>and if I have need of you, I will ſend for you.</hi> Whereupon both took leave.</p>
+            <p>But the Duke of <hi>Richmond</hi> ſtept after Col. <hi>Cooke,</hi> to conſult him, whether or no he had beſt put off his Cloathes that night? VVho anſwered, He himſelf for his part would not; for notwithſtanding Major <hi>Rolph</hi>'s Promiſe, he feared the <hi>King</hi> would ſoon be diſturbed, or elſe the face of Affairs deceived him. The Duke asked, whether he ſhould let the King know what his Opinion was? VVho anſwered,
+<pb n="21" facs="tcp:152697:15" rendition="simple:additions"/>VVith all his heart, and that he would ſtay in the outward Room, in hopes that he might occaſion ſome new Diſcourſes of the buſineſs. But the Duke ſoon returned, and told him, the <hi>King</hi> was reſolved to go to Bed. It was then almoſt One of the Clock, and tho' Col. <hi>Cooke</hi> went not to Bed all night, yet all things were carried with ſo great ſecrecy and quiet, that not the leaſt Noiſe was heard, nor the leaſt cauſe of Suſpicion given.</p>
+            <p>But in the Morning, juſt at break of day, the <hi>King</hi> hearing a great knocking at his Dreſſing-room-door, ſent the Duke of <hi>Richmond</hi> to know what it meant; who enquiring who was there? was anſwered, one <hi>Mild-may</hi> (one of thoſe Servants the Par<g ref="char:EOLhyphen"/>liament had put to the King, and
+<pb n="22" facs="tcp:152697:16" rendition="simple:additions"/>Brother to Sir <hi>Henry.</hi>) The Duke demanding what he would have? anſwered, There were ſome Gentlemen from the Army very de<g ref="char:EOLhyphen"/>ſirous to ſpeak with the <hi>King;</hi> which Account the Duke gave the <hi>King;</hi> but the knocking encreaſing, the <hi>King</hi> commanded the Duke to let them into his Dreſſing-room. No ſooner was this done, but before the <hi>King</hi> got out of his Bed, thoſe Officers ruſhed into his Chamber, and abrupt<g ref="char:EOLhyphen"/>ly told the <hi>King,</hi> They had Orders to remove him. <hi>From whom?</hi> ſaid the King. They replied, <hi>From the Army.</hi> The <hi>King</hi> asked whither he was to be removed? They anſwer<g ref="char:EOLhyphen"/>ed, <hi>To the Caſtle.</hi> The <hi>King</hi> ask'd what Caſtle? Again they anſwered, <hi>To the Caſtle. The Caſtle</hi> (ſaid the <hi>King</hi>) <hi>is no Caſtle;</hi> he told them
+<pb n="23" facs="tcp:152697:16" rendition="simple:additions"/>he was well enough prepared for any Caſtle, and required them to name the Caſtle. After a ſhort whiſper<g ref="char:EOLhyphen"/>ing together, they ſaid, <hi>Hurſt Caſtle.</hi> The <hi>King</hi> replied, <hi>They could not name a worſe,</hi> and called to the Duke of <hi>Richmond</hi> to ſend for the Earl of <hi>Lindſey,</hi> and Col. <hi>Cooke.</hi> At firſt they ſcrupled at the Earl of <hi>Lindſey</hi>'s coming; but the <hi>King</hi> ſaid, <hi>Why not both, ſince both lye together?</hi> They promiſed to ſend for both, but ſent for neither.</p>
+            <p>And tho the Duke of <hi>Richmond</hi> had ordered the <hi>King</hi>'s Breakfaſt to be haſtened, preſuming there was little Proviſion in the deſolate Caſtle; yet when he was ſcarce ready; the Horſes being come, they hurried him away, only permitting the Duke to attend him about two Miles,
+<pb n="24" facs="tcp:152697:17" rendition="simple:additions"/>and then told him he muſt go no further. Where he ſadly took leave, being ſcarce permitted to kiſs the <hi>King</hi>'s Hand, whoſe laſt words were, <hi>Remember me to my Lord</hi> Lindſey, <hi>and Col.</hi> Cooke, <hi>and com<g ref="char:EOLhyphen"/>mand Col.</hi> Cooke, <hi>from me, never to forget the Paſſages of this Night.</hi>
+            </p>
+            <p>The Duke returned directly to the Earl of <hi>Lindſey</hi>'s Lodgings (on which, it appear'd, a Guard had been ſet all the night to keep him from the knowledge of what was do<g ref="char:EOLhyphen"/>ing, or at leaſt to confine him from ſtirring forth, had he known of it) and ſurprized both the Earl of <hi>Lindſey,</hi> and Col. <hi>Cooke</hi> with the Account of the <hi>King</hi>'s being carried away, with all its re<g ref="char:EOLhyphen"/>markable Circumſtances, delivering the King's gracious Remembrance
+<pb n="25" facs="tcp:152697:17" rendition="simple:additions"/>to them both, and his concluding Command to Col. <hi>Cooke.</hi> Where<g ref="char:EOLhyphen"/>fore while all Paſſages were ripe in their Memories, Col. <hi>Cooke,</hi> with the aſſiſtance of the Duke of <hi>Richmond,</hi> and Earl of <hi>Lind<g ref="char:EOLhyphen"/>ſey,</hi> drew up this Narrative in Obedience to the <hi>King</hi>'s Com<g ref="char:EOLhyphen"/>mand.</p>
+            <p>After this the Duke of <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> Earl of <hi>Lindſey,</hi> and Earl of <hi>Southampton,</hi> with his Counteſs, immediately left the Iſland, and embarqued in a Veſſel that belong<g ref="char:EOLhyphen"/>ed to Colonel <hi>Cooke,</hi> and lan<g ref="char:EOLhyphen"/>ded near <hi>Tichfield</hi> (the Earl of <hi>Southampton</hi>'s Houſe) where juſt at their landing, they were all ſeized on by a Party of Colo<g ref="char:EOLhyphen"/>nel <hi>Okey</hi>'s Regiment; who, by
+<pb n="26" facs="tcp:152697:18" rendition="simple:additions"/>the Perſuaſion of Colonel <hi>Cooke,</hi> and his Engagement for their forth-coming, were all permitted to go to the Earl of <hi>Southampton</hi>'s Houſe the next Morning.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:152697:18" rendition="simple:additions"/>
+            <head>Books Printed for <hi>Richard Chiſwell.</hi>
+            </head>
+            <p>THE Fifteen <hi>Notes</hi> of the <hi>Church,</hi> as laid down by Cardinal <hi>Bellarmin,</hi> examined and confuted by ſe<g ref="char:EOLhyphen"/>veral <hi>London</hi> Divines, 4<hi rend="sup">o</hi>. With a Table to the whole, and the Authors Names.</p>
+            <p>
+               <hi>Preparation for Death,</hi> by <hi>William Wake,</hi> D. D. 12<hi rend="sup">o</hi>
+            </p>
+            <p>Dr. <hi>Wake</hi>'s Tracts and Diſcourſes againſt <hi>Popery,</hi> in 2 vol.</p>
+            <p>A <hi>Private Prayer</hi> to be uſed in difficult Times.</p>
+            <p>An Expoſition of the Ten Commandments. By <hi>Simon Patrick,</hi> now Lord Biſhop of <hi>Chicheſter.</hi>
+            </p>
+            <p>
+               <hi>Markham</hi>'s perfect Horſeman, in fifty years practice. 8<hi rend="sup">o</hi>.</p>
+            <p>
+               <hi>Valentine</hi>'s Devotions. 24<hi rend="sup">o</hi>.</p>
+            <p>The <hi>Lay Chriſtians</hi> Obligation to read the Holy Scrip<g ref="char:EOLhyphen"/>tures. By Dr. <hi>Stratford,</hi> now Lord Biſhop of <hi>Cheſter.</hi>
+            </p>
+            <p>The <hi>Texts</hi> which the <hi>Papiſts</hi> cite out of the <hi>Bible</hi> for proof of the Points of their Religion, examined, and ſhewed to be alledg'd without ground. In Twenty five diſtinct Diſcourſes, viz. by ſeveral <hi>London</hi> Divines, with a Table to the whole, and the Authors Names.</p>
+            <p>Taxes no Charge; in a Letter from a Gentleman to a Perſon of Quality; ſhewing the nature, uſe and benefit of <hi>Taxes</hi> in this Kingdom; and compared with Impoſi<g ref="char:EOLhyphen"/>tion of Foreign States. Together with the improve<g ref="char:EOLhyphen"/>ment of Trade in time of War.</p>
+            <p>The Caſe of Allegiance in our preſent circumſtances conſidered; in a Letter from a Miniſter in the City, to a Miniſter in the Country. <hi>Quarto.</hi>
+            </p>
+            <p>A Breviate of the State of <hi>Scotland</hi> in its Government, Supream Courts, Officers of State, Inferior Officers, Offices, and Inferior Courts, Diſtricts, Juriſdictions, Burroughs Royal, and Free Corporations. <hi>Fol.</hi>
+            </p>
+            <p>Some Conſiderations touching Succeſſion and Alle<g ref="char:EOLhyphen"/>giance. <hi>Quarto.</hi>
+            </p>
+            <pb facs="tcp:152697:19" rendition="simple:additions"/>
+            <p>Reflections upon the late great Revolution. Written by a Lay hand in the Country, for the Satisfaction of ſome Neighbours.</p>
+            <p>The Hiſtory of the Deſertion; or an Account of all the publick Affairs in <hi>England,</hi> from the beginning of <hi>Sept.</hi> 1688. to the Twelfth of <hi>February</hi> following. With an Anſwer to a Piece call'd, The Deſertion diſcuſſed, in a Letter to a Country Gentleman. By a Perſon of Quality.</p>
+            <p>K. <hi>William</hi> and K. <hi>Lewis;</hi> wherein is ſet forth the inevi<g ref="char:EOLhyphen"/>table neceſſity theſe Nations lye under, of ſubmitting wholly to one or other of theſe Kings; and that the Matter in controverſie is not now between K. <hi>William</hi> and K. <hi>James,</hi> but between K. <hi>William</hi> and K. <hi>Lewis</hi> of <hi>France,</hi> for the Government of theſe Nations.</p>
+            <p>Two Sermons, one againſt Murmuring, the other againſt Cenſuring. By <hi>Simon Patrick,</hi> D. D. now Lord Biſhop of <hi>Chicheſter.</hi>
+            </p>
+            <p>An Account of the Private League betwixt the late King <hi>James</hi> the Second and the <hi>French</hi> King. <hi>Fol.</hi>
+            </p>
+            <p>Dr. <hi>Wake</hi>'s Sermons and Diſcourſes. <hi>Octavo.</hi>
+            </p>
+            <p>Mr. <hi>Tully</hi>'s Sermon of Moderation, before the Lord Mayor, <hi>May</hi> 12. 1689.</p>
+            <p>An Examination of the Scruples of thoſe who refuſe to take the Oath of Allegiance. By a Divine of the <hi>Church of England.</hi>
+            </p>
+            <p>A Dialogue betwixt two Friends, a <hi>Jacobite</hi> and a <hi>Williamite;</hi> occaſioned by the late Revolution of Af<g ref="char:EOLhyphen"/>fairs, and the Oath of Allegiance.</p>
+            <p>The Caſe of Oaths ſtated. <hi>Quarto.</hi>
+            </p>
+            <p>The Advantages of the preſent Settlement, and the great Danger of a Relapſe.</p>
+            <p>The Intereſt of <hi>England</hi> in the Preſervation of <hi>Ireland.</hi>
+            </p>
+            <p>A ſhort View of the unfortunate Reigns of theſe Kings, <hi>William</hi> the 2d. <hi>Henry</hi> the 2d. <hi>Edward</hi> the 2d. <hi>Ric<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard</hi> the 2d. <hi>Charles</hi> the 2d. and <hi>James</hi> 2d.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
